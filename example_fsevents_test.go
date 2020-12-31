@@ -9,7 +9,7 @@ package notify_test
 import (
 	"log"
 
-	"github.com/syncthing/notify"
+	"github.com/Hellyna/notify"
 )
 
 // This example shows how to use FSEvents-specifc event values.
